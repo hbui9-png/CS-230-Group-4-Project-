@@ -1,2 +1,4 @@
-# CS-230-Group-4-Project-
-Project 4
+# CS-230-01-Computing & Responsibility
+Project 4 - Entrepreneurism & Ethics
+Group 4
+Start up "Calorie Compass"
